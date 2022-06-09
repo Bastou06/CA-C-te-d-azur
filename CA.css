@@ -1,0 +1,111 @@
+.container-header {
+
+    background-image: url(./coffee.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    JUSTIFY-CONTENT: CENTER;
+
+}
+
+.titre-header {
+
+    width: 50%;
+
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#titre-part1 {
+
+    color: white;
+
+
+}
+
+#titre-part2 {
+
+    color: white;
+    background-color: #389db47d;
+    padding: 10px;
+    font-size: 50px;
+
+
+
+}
+
+.container-navbar {
+
+    background-color: #389DB4;
+    padding: 10px;
+    font-size: 18PX;
+    color: white;
+
+}
+
+#navbar {
+
+    padding: 5px;
+    text-align: center;
+
+
+}
+
+.container-navbar2 {
+
+    background-color: white;
+    padding: 10px;
+    font-size: 18PX;
+    color: #389DB4;
+
+
+
+}
+
+.container-lespritca {
+
+    background-color: #C7ECF6;
+    width: 100%;
+    margin: 0;
+    display: flex;
+
+}
+
+#lesprit-club-affaire {
+
+    background: #389DB4;
+    color: white;
+    font-size: 12px;
+
+}
+
+#esprit {
+
+    writing-mode: vertical-rl;
+    padding-right: 0;
+    margin: 0;
+    transform: rotate(180deg);
+}
+
+#club-affaire {
+
+    padding-left: 18px;
+}
+
+#texte-ca {
+
+    padding-left: 0
+}
+
+
+#image-ca {
+
+    WIDTH: 100%;
+
+
+}
